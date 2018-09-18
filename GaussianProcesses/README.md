@@ -1,6 +1,7 @@
 # Learning Gaussian Processes 
 This folder is intended to share learning experience of Gaussian processes.
 
+## Reference Materials
 Here is a nice introductory [lecture by Andrew Wilson](https://slideshot.epfl.ch/play/k5FuJcUA0L0c) to get you started.
 
 Here is Andrew's [Cornell page](https://people.orie.cornell.edu/andrew/) with many relevant links, including 
@@ -30,4 +31,4 @@ Initial Questions:
 *	How does Spectral Mixture representation of covariance matrix help classify and generate Gaussian Processes?
 
 ## Notes
-Initial [collaboration document](https://docs.google.com/document/d/1XqTtOFMwocbQuyGwv-4ilbECzTFN1hAj4nTcQtoKZbU/edit#), please E-mail if you'd like to collaborate.
+Initial [collaboration document](https://docs.google.com/document/d/1XqTtOFMwocbQuyGwv-4ilbECzTFN1hAj4nTcQtoKZbU/edit#), please E-mail / request access if you'd like to collaborate.
